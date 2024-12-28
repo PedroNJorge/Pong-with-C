@@ -17,4 +17,4 @@ The game features **smooth rendering of graphics using SDL3**, with **text displ
 
 
 # Compiling
-```gcc -o pong pong.c -lm -lSDL3_ttf `pkg-config sld3 --cflags --libs` ```
+```gcc -o pong pong.c -lm -lSDL3_ttf `pkg-config sdl3 --cflags --libs` ```
