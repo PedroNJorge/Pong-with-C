@@ -1,4 +1,4 @@
-# pong-c
+# Pong recreation using C
 
 A recreation of the classic **Pong** retro game from 1972, **developed in C**.<br/><br/>
 The game features **smooth rendering of graphics using SDL3**, with **text displayed via SDL3_ttf** for additional customization. Players can adjust various aspects of the game, such as paddle size and ball velocity, by modifying simple constants in the code.<br/>
